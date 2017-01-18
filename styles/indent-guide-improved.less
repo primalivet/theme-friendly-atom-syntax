@@ -1,0 +1,10 @@
+.indent-guide-improved {
+  background-color: @syntax-indent-guide-color;
+  transition: background-color @syntax-timing;
+  &.indent-guide-stack {
+    background-color: @syntax-indent-guide-color;
+    &.indent-guide-active {
+      background-color: fade(@darkYellow, 50%);
+    }
+  }
+}
