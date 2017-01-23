@@ -1,6 +1,6 @@
 # Friendly syntax theme for Atom
 
-Dark blueish syntax theme with soft colors for atom that's keen on the eye but stull colorful. It looks at it's best together with the [Friendly UI](http://github.com/primalivet/friendly-ui).
+Dark blueish syntax theme with soft colors for atom that's keen on the eye but stull colorful. It looks at it's best together with the [Friendly UI](https://atom.io/themes/friendly-ui).
 
 ![Screenshot of Atom showing HTML syntax.](https://raw.githubusercontent.com/primalivet/friendly-syntax/master/screenshots/overview.png)
 
