@@ -1,7 +1,7 @@
 {
   "name": "friendly-syntax",
   "theme": "syntax",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Dark blueish syntax theme with soft colors for atom that's keen on the eye but stull colorful.",
   "keywords": [
     "syntax",
